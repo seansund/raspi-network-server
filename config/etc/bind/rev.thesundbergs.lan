@@ -11,3 +11,5 @@ $TTL 86400
 panther IN  A           10.15.19.10
 10      IN  PTR         panther.thesundbergs.lan.
 
+router  IN  A           10.15.19.1
+1       IN  PTR         router.thesundbergs.lan.
