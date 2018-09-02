@@ -10,3 +10,4 @@ $TTL 86400
 @       IN  PTR         thesundbergs.lan.
 panther IN  A           10.15.19.10
 10      IN  PTR         panther.thesundbergs.lan.
+
