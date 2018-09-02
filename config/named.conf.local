@@ -1,0 +1,8 @@
+zone "thesundbergs.lan" {
+	type master;
+	file "/etc/bind/for.thesundbergs.lan";
+};
+zone "19.15.10.in-addr.arpa" {
+	type master;
+	file "/etc/bind/rev.thesundbergs.lan";
+};
