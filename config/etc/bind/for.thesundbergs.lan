@@ -1,11 +1,11 @@
 $TTL 86400
-@   IN  SOA     xandar.thesundbergs.lan. root.thesundbergs.lan. (
+@   IN  SOA     panther.thesundbergs.lan. root.thesundbergs.lan. (
         2011071001  ;Serial
         3600        ;Refresh
         1800        ;Retry
         604800      ;Expire
         86400       ;Minimum TTL
 )
-@       IN  NS          xandar.thesundbergs.lan.
+@       IN  NS          panther.thesundbergs.lan.
 @       IN  A           10.15.19.10
-xanda   IN  A           10.15.19.10
+panther IN  A           10.15.19.10
